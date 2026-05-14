@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chhokher Jole Lekha Naam
+
+This log tracks the cryptographic history and versioning for the song **Chhokher Jole Lekha Naam** (chhokher-jole-lekha-naam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-14T21:43:18.571312 | `v1` | `b2908252590ce2d93716e309e0a53a446c5461494c110c3f83866d52fe3247fa` | `18f61afbe53ce044959a63aa2dd5732593bac1c7dd7b172b9f9407044be527b1` | `2026-05-14_chhokher-jole-lekha-naam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
