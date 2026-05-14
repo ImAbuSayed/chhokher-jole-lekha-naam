@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chhokher-jole-lekha-naam/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Chhokher Jole Lekha Naam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chhokher-jole-lekha-naam/) |
+| **Get License** | [Commercial Licensing for Chhokher Jole Lekha Naam](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chhokher-jole-lekha-naam/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> চোখের জলে লেখা নাম বৃষ্টি হয়ে ঝরে
+> অবুঝ বুকের গোপন কথা তোমার ছায়া ধরে
+> উদাস হাওয়ায় একলা আমি শূন্যতারই তীরে
+> বুকের মাঝে তোমার আদর মাতাল করে ফিরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
